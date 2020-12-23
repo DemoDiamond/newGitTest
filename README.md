@@ -1,3 +1,3 @@
 # newGitTest
 familiarization
-репозиторий для знакомства с GitHub
+## репозиторий для знакомства с GitHub
